@@ -31,7 +31,8 @@ I'm a passionate Data Analyst with a love for uncovering insights and driving de
 
 ### 🛠️ Skills & Tools
 
-- **Languages**: SQL, ![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/7adfe325-ded6-470d-9d9e-fdec0d5f4b48)
+- **Languages**: SQL, <img src="![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/7adfe325-ded6-470d-9d9e-fdec0d5f4b48)" width="400" height="200" />
+![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/7adfe325-ded6-470d-9d9e-fdec0d5f4b48)
 
 - **Data Visualization**: Power BI, Tableau, Excel
 - **Databases**: MySQL, MongoDB
