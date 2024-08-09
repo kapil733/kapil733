@@ -9,6 +9,7 @@ Aspiring Data Analyst | SQL | Python | Power BI | Tableau | Statistics
 I'm a passionate Data Analyst with a love for uncovering insights and driving decisions through data. My journey is fueled by curiosity and a commitment to continuous learning. I’m equipped with a strong foundation in SQL, Python, Power BI, Tableau, and statistical analysis, allowing me to tackle complex data challenges and transform raw data into actionable insights.
 
 ---
+![image](https://github.com/user-attachments/assets/d6fed169-d774-4c99-8a0c-103aaa37bade)
 
 ### 🚀 My Projects
 
