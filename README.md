@@ -1,3 +1,4 @@
+![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/14666be3-982d-45d3-8f79-d216c8ef822d)
 # 👋 Hello, I'm [Kapil Agadari]!
 
 Aspiring Data Analyst | SQL | Python | Power BI | Tableau | Statistics
@@ -9,25 +10,9 @@ Aspiring Data Analyst | SQL | Python | Power BI | Tableau | Statistics
 I'm a passionate Data Analyst with a love for uncovering insights and driving decisions through data. My journey is fueled by curiosity and a commitment to continuous learning. I’m equipped with a strong foundation in SQL, Python, Power BI, Tableau, and statistical analysis, allowing me to tackle complex data challenges and transform raw data into actionable insights.
 
 ---
-![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/14666be3-982d-45d3-8f79-d216c8ef822d)
 
 
 
-### 🚀 My Projects
-
-#### 📊 [Project 1: Credit Card Analysis](https://github.com/yourusername/credit-card-analysis)
-- **Tools Used**: SQL, Power BI
-- **Description**: Led a comprehensive analysis to uncover customer behaviors and identify opportunities for offering favorable loan terms.
-
-#### 📈 [Project 2: Zomato Restaurant Data Analysis](https://github.com/yourusername/zomato-analysis)
-- **Tools Used**: Python, BeautifulSoup, Selenium, Power BI
-- **Description**: Scraped and analyzed data from Zomato, developing interactive dashboards to showcase key metrics and insights.
-
-#### 📉 [Project 3: [Your Project Name]](https://github.com/yourusername/your-project-repo)
-- **Tools Used**: [Tools or technologies used]
-- **Description**: [Brief description of the project, including your role and the impact.]
-
----
 
 ### 🛠️ Skills & Tools
 
