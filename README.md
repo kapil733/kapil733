@@ -17,8 +17,8 @@ I'm a passionate Data Analyst with a love for uncovering insights and driving de
 
 ### 🎓 Education & Certifications
 
-- **Bootcamp**: [Bootcamp Name] - Data Analysis
-- **Certifications**: [Certification Name], [Certification Name]
+- **Bootcamp**: [Masai School] - Data Analysis
+- **Certifications**: [HackerRank SQL(Advanced) certificate], [Masai construct week project]
 
 ---
 
