@@ -42,8 +42,8 @@ I'm a passionate Data Analyst with a love for uncovering insights and driving de
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabaalam800&show_icons=true&locale=en&layout=compact" alt="kapil733" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapil733&show_icons=true&locale=en&layout=compact" alt="kapil733" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftabaalam800&show_icons=true&locale=en" alt="kapil733" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapil733&show_icons=true&locale=en" alt="kapil733" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabaalam800&" alt="kapil733" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapil733&" alt="kapil733" /></p>
