@@ -36,14 +36,14 @@ I'm a passionate Data Analyst with a love for uncovering insights and driving de
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kapil-agadari-ba536a1a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/kapil-agadari-ba536a1a7/)" height="30" width="40" /></a>
-<a href="(https://www.hackerrank.com/profile/kapil57575757)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aftabaalam800" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/kapilagadari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="f35_151" height="30" width="40" /></a>
+<a href="(https://www.hackerrank.com/profile/kapil57575757)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kapil733" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kapilagadari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="f35_246" height="30" width="40" /></a>
 </p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabaalam800&show_icons=true&locale=en&layout=compact" alt="aftabaalam800" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabaalam800&show_icons=true&locale=en&layout=compact" alt="kapil733" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftabaalam800&show_icons=true&locale=en" alt="aftabaalam800" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftabaalam800&show_icons=true&locale=en" alt="kapil733" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabaalam800&" alt="aftabaalam800" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabaalam800&" alt="kapil733" /></p>
