@@ -5,21 +5,14 @@ Aspiring Data Analyst | SQL | Python | Power BI | Tableau | Statistics
 
 ---
 <h1 align="center">👋 Hello, I'm [Kapil Agadari]!
-<h3 align="center">### 🌟 About Me
+<h3 align="center"> 🌟 About Me
 
 I'm a passionate Data Analyst with a love for uncovering insights and driving decisions through data. My journey is fueled by curiosity and a commitment to continuous learning. I’m equipped with a strong foundation in SQL, Python, Power BI, Tableau, and statistical analysis, allowing me to tackle complex data challenges and transform raw data into actionable insights.
 
 
 
-### 🛠️ Skills & Tools
-
-- **Languages**: SQL, <img src="![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/7adfe325-ded6-470d-9d9e-fdec0d5f4b48)" width="400" height="200" />
-![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/7adfe325-ded6-470d-9d9e-fdec0d5f4b48)
-
-- **Data Visualization**: Power BI, Tableau, Excel
-- **Databases**: MySQL, MongoDB
-- **Other Tools**: Git, Jupyter, VS Code
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 ---
 
 ### 🎓 Education & Certifications
@@ -67,8 +60,7 @@ I'm a passionate Data Analyst with a love for uncovering insights and driving de
 <a href="https://www.leetcode.com/f35_151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="f35_151" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabaalam800&show_icons=true&locale=en&layout=compact" alt="aftabaalam800" /></p>
 
