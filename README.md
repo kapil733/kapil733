@@ -22,20 +22,6 @@ I'm a passionate Data Analyst with a love for uncovering insights and driving de
 
 ---
 
-### 📝 Blogs & Articles
-
-- **[Latest Blog Post: Title](https://yourbloglink.com)** - A deep dive into data visualization best practices.
-- **[Another Blog Post: Title](https://yourbloglink.com)** - Exploring statistical methods in data analysis.
-
----
-
-### 🤝 Let's Connect!
-
-- **LinkedIn**: (https://www.linkedin.com/in/kapil-agadari-ba536a1a7/)
-- **Email**: (Kapil57575757@gmail.com)
-
----
-
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -49,9 +35,9 @@ I'm a passionate Data Analyst with a love for uncovering insights and driving de
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aftab-alam-063a81185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aftab-alam-063a81185/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aftabaalam800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aftabaalam800" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/f35_151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="f35_151" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kapil-agadari-ba536a1a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aftab-alam-063a81185/" height="30" width="40" /></a>
+<a href="(https://www.hackerrank.com/profile/kapil57575757)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aftabaalam800" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kapilagadari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="f35_151" height="30" width="40" /></a>
 </p>
 
 
