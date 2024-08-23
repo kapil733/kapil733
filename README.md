@@ -56,9 +56,8 @@ I'm a passionate Data Analyst with a love for uncovering insights and driving de
 
 ### 🤝 Let's Connect!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
-- **Email**: [Your Email](mailto:youremail@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/kapil-agadari-ba536a1a7/)
+- **Email**: [Your Email](Kapil57575757@gmail.com)
 
 ---
 
