@@ -27,9 +27,9 @@ I'm a passionate Data Analyst with a love for uncovering insights and driving de
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabaalam800&label=Profile%20views&color=0e75b6&style=flat" alt="aftabaalam800" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/aftabaalam800?tab=repositories](https://github.com/aftabaalam800?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/kapil733?tab=repositories
 
-- 📫 How to reach me **aftabaalam800@gmail.com**
+- 📫 How to reach me **kapil57575757@gmail.com**
 
 - ⚡ Fun fact **Playing cricket**
 
