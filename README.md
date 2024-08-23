@@ -11,7 +11,7 @@ I'm a passionate Data Analyst with a love for uncovering insights and driving de
 ---
 ![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/14666be3-982d-45d3-8f79-d216c8ef822d)
 
-![212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a](https://github.com/user-attachments/assets/baededce-6e38-4b01-8a11-2480758d1400)
+
 
 ### 🚀 My Projects
 
